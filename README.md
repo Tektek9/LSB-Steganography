@@ -3,7 +3,8 @@ Aplikasi Steganography berbasis Desktop
 
 Fitur:
 - Support gambar bmp dan png
-- Auto generate output file gambar yang sudah disisipkan teks
+- Auto deteksi format gambar yang dipilih
+- Auto generate output file gambar yang sudah disisipkan teks sesuai dengan format yang dipilih sebelumnya
 - Auto hitung PSNR LSB dan untuk BCPS dari customer saya mintanya nilai random, maka BCPS bernilai random
 
 ![image description](https://github.com/Tektek9/LSB-Steganography/blob/main/1.png)
